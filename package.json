@@ -191,7 +191,7 @@
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^6.0.1",
     "c8": "^11.0.0",
-    "concurrently": "^9.2.1",
+    "concurrently": "^10.0.3",
     "cross-env": "^10.1.0",
     "eslint": "^9.39.4",
     "eslint-config-next": "16.2.6",
@@ -233,7 +233,7 @@
     "path-to-regexp": "^8.4.0",
     "postcss": "^8.5.10",
     "ip-address": "10.1.1",
-    "hono": "^4.12.18",
+    "hono": "^4.12.25",
     "@hono/node-server": "^1.19.13",
     "react": "$react",
     "react-dom": "$react-dom"
